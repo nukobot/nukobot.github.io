@@ -1,0 +1,15 @@
+{
+  "name": "nukobot-website",
+  "version": "1.0.0",
+  "description": "The website housing feature and command list for nukobot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nukobot/nukobot.github.io.git"
+  },
+  "author": "Pradipta Arya Daniswara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nukobot/nukobot.github.io/issues"
+  },
+  "homepage": "https://github.com/nukobot/nukobot.github.io#readme"
+}
